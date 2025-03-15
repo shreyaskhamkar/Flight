@@ -3,7 +3,7 @@
 Red-Green-Refactor: The Heart of Test-Driven Development (TDD)
 The Red-Green-Refactor cycle is the core concept of Test-Driven Development (TDD). It ensures that code is written with proper testing and follows an iterative improvement process.
 
-##The Three Phases of Red-Green-Refactor
+## The Three Phases of Red-Green-Refactor
 1️⃣ Red – Write a Failing Test
 Write a test before writing the actual code.
 The test should fail initially because the functionality doesn’t exist yet.
